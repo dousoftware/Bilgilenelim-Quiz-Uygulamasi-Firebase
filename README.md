@@ -1,4 +1,4 @@
-# Bilgilenelim-Quiz-Uygulamasi-Firebase
+# Bilgilenelim-QuizUygulamasi-Firebase
 Bilgilenelim, Java programlama dili ile yazılmış veritabanı ve bildirim yolu olarak Firebase kullanılmış bir quiz uygulamasıdır.
 Uygulamanın tasarımı Adobe XD ile yapılmıştır.
 
