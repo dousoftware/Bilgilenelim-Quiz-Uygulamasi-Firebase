@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663604998477",
+    "firebase_url": "https://bilgilenelim-1e495.firebaseio.com",
+    "project_id": "bilgilenelim-1e495",
+    "storage_bucket": "bilgilenelim-1e495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663604998477:android:adfd4fefa9f21201db4704",
+        "android_client_info": {
+          "package_name": "com.dousoftware.bilgilenelim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663604998477-98jtlgqu7g0fiel194ohb3bqei5pn4m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Vx_FjWso1__o318QM_tMXVTyFxOl23o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663604998477-98jtlgqu7g0fiel194ohb3bqei5pn4m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
